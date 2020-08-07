@@ -1,4 +1,4 @@
 webserver:
-  image: pzielinski4/python-webserver:latest
+  image: pzielinski4/python_webserver:latest
   ports:
     - ${HTTP_PORT}:8000
